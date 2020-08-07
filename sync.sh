@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "Syncing Notes"
+echo Syncing Notes
 git pull
 
 echo ""
