@@ -6,7 +6,7 @@
     {
       "label": "Sync",
       "type": "shell",
-      "command": "bash ./sync.sh",
+      "command": ". ./sync.sh",
       "problemMatcher": [],
       "presentation": {
         "echo": true,
