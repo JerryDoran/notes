@@ -1,0 +1,1 @@
+ctrl + shift + s - automatically stages, commits and pushes changes to git hub.
